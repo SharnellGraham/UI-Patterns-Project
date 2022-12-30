@@ -1,0 +1,30 @@
+body {
+    padding: 50px;
+    margin: 0;
+
+    background: #ffffff;
+}
+
+.tab__btns {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .tab__btn {
+    position: relative;
+  
+    flex-grow: 1;
+  
+    padding: 20px;
+    margin: 0;
+    border: none;
+    
+    font-size: 18px;
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+  
+    background: #ffffff;
+    cursor: pointer;
+    
+  }
