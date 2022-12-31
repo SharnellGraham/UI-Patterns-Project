@@ -1,3 +1,28 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 50px;
+  margin: 0;
+  
+  background: #ffffff;
+}
+
+.tab__btns {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
     padding: 50px;
     margin: 0;
@@ -48,7 +73,7 @@ body {
     height: 100%;
   
     
-  
+    background: linear-gradient(90deg, #b3010, #b3010, #b30101);
     transform-origin: center top;
     transform: scaleY(0);
     transition: transform 0.3s ease-in-out;
@@ -119,3 +144,8 @@ body {
       transform: translateY(0px);
     }
   }
+
+  #selector {
+    width:10%;
+    height:10%;
+}
