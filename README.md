@@ -8,4 +8,4 @@ OBJECTIVE : This project is going to challenge you to combine your programming s
 
 
 
-Project description : THis project will display  how the  user sees a row of tabs above a content area. When the user clicks on one of the tabs, the content in the content area changes based on which tab the user clicked. Users will gain knowledge on various firearms companys that operate today.
+Project description : This project will display  how the  user sees a row of tabs above a content area. When the user clicks on one of the tabs, the content in the content area changes based on which tab the user clicked. Users will gain knowledge on various firearms companys that operate today.
